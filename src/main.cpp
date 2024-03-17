@@ -1,4 +1,4 @@
-#include <Arduino.h> //Видалити, якщо в ArduinoIDE
+#include <Arduino.h>  //Видалити, якщо в ArduinoIDE
 #include <WiFi.h>
 #include <HardwareSerial.h>
 #include <WiFiClientSecure.h>
